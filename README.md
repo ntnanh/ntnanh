@@ -10,34 +10,34 @@ My name is Ngoc Anh. I am a final-year student at an Information Technology Univ
 
 <a href="https://github.com/ntnanh/website-bansach/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
+  <img align="center" src="github-readme-stats.vercel.app" />
 </a>    
 <a href="https://github.com/ntnanh/Northwest-travel-website/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
+  <img align="center" src="github-readme-stats.vercel.app" />
 </a>
 
 <a href="https://github.com/ntnanh/Game-Flappy-Bird/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
+  <img align="center" src="github-readme-stats.vercel.app" />
 </a>    
 <a href="https://github.com/ntnanh/Face-recognition-system/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
+  <img align="center" src="github-readme-stats.vercel.app" />
 </a>
 
 <a href="https://github.com/ntnanh/Book-selling-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
+  <img align="center" src="github-readme-stats.vercel.app" />
 </a>    
 <a href="https://github.com/ntnanh/w3-band/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
+  <img align="center" src="github-readme-stats.vercel.app" />
 </a>
 
 <a href="https://github.com/ntnanh/exercise_ltdd/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
+  <img align="center" src="github-readme-stats.vercel.app" />
 </a>    
 
 
