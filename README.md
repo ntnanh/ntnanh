@@ -5,25 +5,30 @@ My name is Ngoc Anh. I am a final-year student at an Information Technology Univ
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ngoc-anh-545293174/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ntnanh) 
 
 
-<a href="https://github.com/uvipen/QuickDraw/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+![Anh github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ntnanh&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/ntnanh/website-bansach/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=website-bansach&theme=radical" />
-</a> 
+</a>    
 
- 
- 
+<a href="https://github.com/ntnanh/Northwest-travel-website/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=Northwest-travel-website&theme=merko" />
+</a>
 
-<!--
-**ntnanh/ntnanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/ntnanh/Book-selling-app/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=Book-selling-app&theme=gruvbox" />
+</a>    
 
-Here are some ideas to get you started:
+<a href="https://github.com/ntnanh/Game-Flappy-Bird/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=Game-Flappy-Bird&theme=dark" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ntnanh/Flappy-bird-deep-Q-learning-pytorch/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+</a>    
+<a href="https://github.com/ntnanh/w3-band/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=w3-band&theme=cobalt" />
+</a>
+
+
