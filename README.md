@@ -23,10 +23,7 @@ My name is Ngoc Anh. I am a final-year student at an Information Technology Univ
 <a href="https://github.com/ntnanh/Game-Flappy-Bird/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=Game-Flappy-Bird&theme=dark" />
 </a>
-
-<a href="https://github.com/ntnanh/Flappy-bird-deep-Q-learning-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
-</a>    
+ 
 <a href="https://github.com/ntnanh/w3-band/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=w3-band&theme=cobalt" />
 </a>
