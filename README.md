@@ -22,10 +22,6 @@ My name is Ngoc Anh. I am a final-year student at an Information Technology Univ
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=Game-Flappy-Bird&theme=dark" />
 </a>
 
-<a href="https://github.com/ntnanh/Face-recognition-system/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=Face-recognition-system&theme=cobalt" />
-</a>
-
  <a href="https://github.com/ntnanh/Northwest-travel-website/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntnanh&repo=Northwest-travel-website&theme=merko" />
 </a>
